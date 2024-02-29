@@ -1,0 +1,68 @@
+body {
+    background-image:url(images/pexels-lukas-1419923.jpg) ;
+    background-size: cover;
+}
+#name{
+    margin-top: 450px;
+    margin-left: 150px;
+    color:rgb(65, 54, 64);
+    font-size: 100px;
+    margin-bottom: 0px;
+    font-family: "Merriweather", serif;
+}
+#sub-name{
+    margin-top: px;
+    margin-left: 180px;
+    color:rgb(65, 54, 64);
+    font-size: 30px;
+    font-family: "Merriweather", serif;
+    margin-bottom: 300px;
+}
+#p_size{
+    font-size: 30px;
+    width: 1600px;
+}
+
+#c-c{
+    margin-top: 60px;
+    font-size: 50px;
+}
+#java{
+    margin-top: 60px;
+    font-size: 50px;
+}
+#python{
+    margin-top: 60px;
+    font-size: 50px;
+}
+#react{
+    margin-top: 60px;
+    font-size: 50px;
+}
+#mysql{
+    margin-top: 60px;
+    font-size: 50px;
+}
+#mangoDB{
+    margin-top: 60px;
+    font-size: 50px;
+}
+#javascript{
+    margin-top: 60px;
+    font-size: 50px;
+}
+#about{
+    font-size: 20px;
+}
+#pricing{
+    font-size: 50px;
+}
+#features{
+    font-size: 30px;
+}
+#cost{
+    font-size: 40px;
+}
+#contact{
+    font-size: 20px;
+}
